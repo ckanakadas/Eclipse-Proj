@@ -4,7 +4,12 @@ public class Hello {
 	
 
 		public static void main(String[] args) {
-		System.out.println("Hello baby");
+			
+			//This is my first java project 
+			System.out.println(" My first java project");
+			
+		    System.out.println("Hello baby");
+		
 		
 
 		}
