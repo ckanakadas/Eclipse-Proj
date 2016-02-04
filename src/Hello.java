@@ -10,6 +10,8 @@ public class Hello {
 			System.out.println(" My first java project");
 			
 		    System.out.println("Hello World");
+
+              System.out.println("Hello World2");
 		
 		
 
